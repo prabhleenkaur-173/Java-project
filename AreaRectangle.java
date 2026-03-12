@@ -14,6 +14,8 @@ import java.util.Scanner;
 
             System.out.print("The area of the rectangle is: " + area);
 
+            abc.close();
+
         }
     }
 
