@@ -42,13 +42,7 @@ public class calculatorSwitch {
 
                 abc.close();
 
-
         }
-
-
-
-
-
 
     }
 
